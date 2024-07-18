@@ -1,1 +1,1 @@
-# tweet-classification-with-polarity-score
+# This is NLP based ML classifier for fake and genuine tweets detection with polarity score
